@@ -1,0 +1,20 @@
+{
+  "name": "jerry-music",
+  "version": "1.0.0",
+  "description": "MUSIC BOT CRATE BY SLAGOP",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "expess": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "'ping"
+  },
+  "author": "『𝐄𝐍』SLAGOPᴰᴱⱽ #6041",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "."
+  }
+}
